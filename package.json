@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"test": "jest"
+	},
+	"type": "commonjs",
+	"dependencies": {
+		"jest": "^30.0.5"
+	}
+}
