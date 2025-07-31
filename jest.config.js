@@ -5,7 +5,7 @@ module.exports = {
     '^.+\\.js$': 'babel-jest',
   },
   moduleFileExtensions: ['js', 'json'],
-  testMatch: ['**/main.test.js'],
+  testMatch: ['**/*.test.js'],
   collectCoverage: true,
   coverageReporters: ['text', 'lcov'],
 };
