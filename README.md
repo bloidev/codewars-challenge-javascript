@@ -15,8 +15,11 @@ npm install
 
 Recuerda ejecutar tu kata con el siguiente comando en la carpeta donde iniciaste tus prácticas de código
 ```sh
-cd <nombre-carpeta>
-node main.js
+# Descripción
+node .\<nombre-carpeta>\main.js
+
+# Ejemplo
+node .\roman-numeral-encoder\main.js
 ```
 
 ## 
@@ -38,4 +41,5 @@ npm run test <nombre-carpeta>
 # Ejemplos:
 npm run test create-phone-number
 npm run test duplicate-encoder
+npm run test roman-numeral-encoder
 ```
