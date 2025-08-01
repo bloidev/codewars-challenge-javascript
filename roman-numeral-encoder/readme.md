@@ -16,7 +16,7 @@ Example:
 1666 --> "MDCLXVI"
 ```
 
-Help:
+Help: [https://en.wikipedia.org/wiki/Roman_numerals](https://en.wikipedia.org/wiki/Roman_numerals)
 ```
 Symbol    Value
 I          1
@@ -27,3 +27,29 @@ C          100
 D          500
 M          1,000
 ```
+
+Todos los días se aprende algo nuevo, 
+los números romanos, tienen condiciones, y no pueden existir más de 3 simbolos consecutivos, ahí es donde entran otros valores y letras.
+
+Aqui completa la lista.
+
+```
+1: 'I', 
+4: 'IV',
+5: 'V', 
+9: 'IX',
+10: 'X',
+40: 'XL',
+50: 'L',
+90: 'XC',
+100: 'C',
+400: 'CD',
+500: 'D',
+900: 'CM',
+1000: 'M'
+```
+
+al final si tenemos 1990 -> obtenemos MCMXC.
+pero un error común seria que nos pasara lo siguiente, solo con la lista de ayuda que nos dieron.
+
+1990 -> MDCCCCLXXXX 
